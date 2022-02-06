@@ -1,6 +1,6 @@
-<align="center"><a href="#"><img width="50%" height="auto" src="images/womanlaptop.png" height="175px"/>
+<h1 align="center"><a href="#"><img width="50%" height="auto" src="images/womanlaptop.png" height="175px"/>
 
-<align="center">Hi, <img src="images/wave.gif" width="30px"> I'm Helen Laganzo</h2></a>
+<h1 align="center">Hi, <img src="images/wave.gif" width="30px"> I'm Helen Laganzo</h2></a>
 
 ### <h2 align="center"> I'm a [Certified Tarot Reader](https://www.facebook.com/SLRtarot).</h3>
 
