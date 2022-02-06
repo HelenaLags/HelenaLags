@@ -1,7 +1,7 @@
 <h1 align="center"><a href="#"><img width="50%" height="auto" src="images/womanlaptop.png" height="175px"/>
 <h2 align="center">Hi, <img src="images/wave.gif" width="30px"> I'm Helen Laganzo — aka Helena Lags</h2>
 
-### <h3 align="center"> I'm currently a [Certified Tarot Reader](https://www.facebook.com/SLRtarot).</h3>
+### <h3 align="center">[Certified Tarot Reader](https://www.facebook.com/SLRtarot).</h3>
 
 <br/>
 
